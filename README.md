@@ -1,6 +1,8 @@
 # entry_name_collided
 Sample project for the issue https://issuetracker.google.com/issues/183632446
 
+To start the project, open `/test_app`
+
 # Environment
 - MacOS 11.2.3 on Mac Mini, on internal drive
 - Android Studio 4.1.3, 4.1.0-Beta 6, 4.3-Alpha11
