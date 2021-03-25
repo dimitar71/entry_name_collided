@@ -1,0 +1,15 @@
+include ":sdk"
+project(":sdk").projectDir = new File(rootDir, "../sdk")
+
+include ":core"
+project(":core").projectDir = new File(rootDir, "../core")
+
+include ":core2"
+project(":core2").projectDir = new File(rootDir, "../core2")
+
+include ":core3"
+project(":core3").projectDir = new File(rootDir, "../core3")
+
+include ':app'
+
+rootProject.name = "test_app"
